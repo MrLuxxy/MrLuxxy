@@ -14,8 +14,6 @@
 <br />
 <br />
 
-## Stats
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrLuxxy&theme=dracula"></div>
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
